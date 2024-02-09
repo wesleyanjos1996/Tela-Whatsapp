@@ -1,3 +1,3 @@
-# Tela WhasApp
+# Tela WhasApp Web
 
-Tela de mensagem do WhatsApp feita com __Bootstrap__.
+Tela de mensagem do WhatsApp Web feita com __Bootstrap__.
